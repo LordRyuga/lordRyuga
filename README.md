@@ -110,4 +110,4 @@
 
 ---
 
-⭐️ From [Vinayak-RZ](https://github.com/LordRyuga)
+⭐️ From [LordRyuga](https://github.com/LordRyuga)
