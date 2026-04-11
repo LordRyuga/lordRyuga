@@ -9,7 +9,7 @@
 ## About Me
 
 - 🔭I'm currently working on **[Chrono](https://github.com/ArcaneStdio/Chrono)**, **[Chains of Eternity](https://github.com/ArcaneStdio/Chains-Of-Eternity)** and **[Keriso](https://github.com/mdgspace/keriso)** 
-- 🔧 Currently exploring **Shaders**, **Assembly and system software**, **Computer architecture** and **BlockChain**.
+- 🔧 Currently exploring **Operating Systems**, **Memory Management**, **Design Principles** and **Turing Machines**.
 - 🧠 Passionate about **WebDev, AI, Game Development, Low Level Programming, BlockChain and CP**.
 - 🛠️ Member of **MDG @ IIT Roorkee**.
 - 👯 I'm looking to collaborate on **Anything related to Ai, Games, Blockchain and Compiler Design**
